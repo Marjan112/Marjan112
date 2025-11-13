@@ -12,5 +12,3 @@ Alright, now that we are back id like to interject **myself**  for a moment, not
 Making them technically a **GNU** system with Linux as the kernel.
 
 So when you are refering to **Linux** you are probably thinking of a GNU System with the **Linux** kernel, or, MAYBE, you are refering to something else like **Alpine Linux**, **Android** or **ChromeOS** perhaps?
-
-Alright bruvski I dont even know what am I doing, I just wanted to have a profile README and Im probably gonna either change it or delete it.
