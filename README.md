@@ -11,4 +11,4 @@ There really is a **Linux**, and these people are using it, but it is just a par
 Alright, now that we are back id like to interject **myself**  for a moment, not all **Linux** distros are **GNU**, so what I want to say (and the text above probably said the same thing I just didnt bother reading it) is that not all **Linux** distributions are GNU, but almost all the popular ones are, which means that they combine the **Linux** kernel with the vast majority of **GNU** system software like *bash*, *coreutils*, *glibc*, etc...
 Making them technically a **GNU** system with Linux as the kernel.
 
-So when you are reffering to **Linux** you are probably thinking of a GNU System with the **Linux** kernel, or, MAYBE, you are reffering to something else, who knows 🤷.
+So when you are refering to **Linux** you are probably thinking of a GNU System with the **Linux** kernel, or, MAYBE, you are reffering to something else, who knows 🤷.
